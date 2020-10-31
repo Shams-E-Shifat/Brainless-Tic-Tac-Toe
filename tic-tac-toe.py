@@ -1,5 +1,3 @@
-import random
-
 ''' This program simulates the tic-tac-toe game in a very simple way..
 
     >>>Issues/Bug Report<<<
@@ -14,8 +12,11 @@ import random
     Fixes:
     Bug #1 is fixed
     Bug #2 taken care
+
+    author Shams-E-Shifat
 '''
 
+import random
 
 # Board Display
 def display_board(current_board):
